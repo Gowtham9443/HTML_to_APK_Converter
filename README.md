@@ -4,8 +4,9 @@
 Convert any single-file HTML project into an installable Android APK — no Android Studio required for most tasks.
 
 ---
-<img src="#">
+<img src="html-to-apk.png">
 ---
+
 ## 📋 Requirements
 
 | Tool | Version | Purpose |
